@@ -1,0 +1,18 @@
+
+#actionButton .p-button
+{
+   height: 10px !important;
+   width: 10px !important;
+   padding: 12px !important;
+}
+.p-field
+{
+   margin: 10px 5px;
+}
+
+#modalFooterButtonDiv .p-button
+{
+   height: 10px !important;
+   width: 10px !important;
+   padding: 12px !important;
+}

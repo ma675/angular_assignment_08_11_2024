@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* @import "./node_modules/bootstrap/scss/bootstrap"; */
+/* @import ""; */
+/* @import "../node_modules/font-awesome/scss/font-awesome"; */
+@import "../node_modules/ngx-toastr/toastr.css";
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import "primeicons/primeicons.css";
+
+
+.pi {
+   font-size: 12px !important;
+}
+
+.p-inputtext:enabled:focus {
+   box-shadow:none !important;
+}
+
+.p-dropdown:not(.p-disabled).p-focus {
+   box-shadow:none !important;
+ }
+
+ .form-control:focus {
+   box-shadow:none !important;
+}
+
+.p-dialog .p-dialog-footer {
+   padding: 15px 20px !important;
+}
